@@ -97,7 +97,7 @@ export const en = {
       {
         "name": "Starter",
         "desc": "For a few meetings a week",
-        "price": "{{price_starter}}",
+        "price": "Free",
         "period": "per month",
         "features": [
           "5 recorded meetings a month",
@@ -109,7 +109,7 @@ export const en = {
       {
         "name": "Growth",
         "desc": "For teams that meet daily",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "per month",
         "features": [
           "Unlimited meetings",
@@ -121,7 +121,7 @@ export const en = {
       {
         "name": "Scale",
         "desc": "For several teams at once",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "per month",
         "features": [
           "Multiple workspaces",
@@ -335,7 +335,7 @@ export const ar = {
       {
         "name": "البداية",
         "desc": "لاجتماعات قليلة في الأسبوع",
-        "price": "{{price_starter}}",
+        "price": "مجاني",
         "period": "شهريا",
         "features": [
           "5 اجتماعات مسجلة شهريا",
@@ -347,7 +347,7 @@ export const ar = {
       {
         "name": "النمو",
         "desc": "للفرق التي تجتمع يوميا",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "شهريا",
         "features": [
           "اجتماعات غير محدودة",
@@ -359,7 +359,7 @@ export const ar = {
       {
         "name": "التوسع",
         "desc": "لعدة فرق في آن واحد",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "شهريا",
         "features": [
           "مساحات عمل متعددة",
